@@ -16,4 +16,4 @@ spec:
         - name: myapp-container
           image: ghcr.io/hotogayato/spring/myapp:latest
           ports:
-            - containerPort: 8080
+            - containerPort: 8081
