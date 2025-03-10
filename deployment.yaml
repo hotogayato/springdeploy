@@ -15,7 +15,7 @@ spec:
       containers:
         - name: spring
           #image: ghcr.io/hotogayato/spring/myapp:latest  # Docker Hub から取得
-          image: ghcr.io/tkhs-work/myapp:2
+          image: ghcr.io/tkhs-work/myapp:1
           ports:
             - containerPort: 80
 
